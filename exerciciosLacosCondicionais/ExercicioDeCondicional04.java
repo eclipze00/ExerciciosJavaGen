@@ -30,7 +30,7 @@ public class ExercicioDeCondicional04 {
 			pot = Math.pow(num, 2);
 			System.out.println("\nE sua potencia é de: " + pot);
 		}
-							
+			leia.close();				
 	}
 		
 }
