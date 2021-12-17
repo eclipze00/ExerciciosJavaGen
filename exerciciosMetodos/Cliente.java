@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosMetodos;
+package br.com.generation.Exercicios.exerciciosMetodos;
 
 	/*1) Crie uma classe cliente e apresente os atributos e métodos referentes esta classe, 
 	 * em seguida crie um objeto cliente, defina as instancias deste objeto e apresente as 

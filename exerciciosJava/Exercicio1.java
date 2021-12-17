@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosJava;
+package br.com.generation.Exercicios.exerciciosJava;
 
 	/*Exercicio 1
 	 *Autor: Guilherme Barbosa Rodrigues

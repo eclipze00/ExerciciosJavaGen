@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosHeranca;
+package br.com.generation.Exercicios.exerciciosHeranca;
 
 public class TestAni {
 

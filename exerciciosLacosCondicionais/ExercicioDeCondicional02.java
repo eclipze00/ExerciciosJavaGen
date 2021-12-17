@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosLacosCondicionais;
+package br.com.generation.Exercicios.exerciciosLacosCondicionais;
 
 import java.util.Scanner;
 

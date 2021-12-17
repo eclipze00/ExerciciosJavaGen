@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosVetorEMatriz;
+package br.com.generation.Exercicios.exerciciosVetorEMatriz;
 
 public class ExercicioNaoObrigatorioVetorMatriz01 {
 

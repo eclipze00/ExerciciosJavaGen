@@ -1,29 +1,28 @@
 package br.com.generation.Exercicios.exerciciosHeranca_Polimor;
 
-public class Cachorro02 extends Ani02 implements Ani01{
+public class Preguica02 extends Cavalo02 implements Ani01 {
 
-	public Cachorro02(String nome, int idade) {
+	public Preguica02(String nome, int idade) {
 		super(nome, idade);
 		// TODO Auto-generated constructor stub
-				
 	}
 
 	@Override
 	public void somAnimal() {
-		System.out.println("O cachorro Late!");
+		System.out.println("Som Desconhecido!");
 		
 	}
 
 	@Override
 	public void correr() {
-		System.out.println("O cachorro corre!");
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	public void subirArv() {
-		// TODO Auto-generated method stub
+		System.out.println("Ele sobe em árvores!");
 		
 	}
-	
+
 }

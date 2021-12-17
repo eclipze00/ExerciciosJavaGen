@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosMetodos;
+package br.com.generation.Exercicios.exerciciosMetodos;
 
 public class TestaBanco {
 

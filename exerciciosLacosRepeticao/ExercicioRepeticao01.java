@@ -1,4 +1,4 @@
-package br.com.generation.exerciciosLacosRepeticao;
+package br.com.generation.Exercicios.exerciciosLacosRepeticao;
 
 public class ExercicioRepeticao01 {
 
